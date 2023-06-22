@@ -606,7 +606,7 @@ section {
 }
 
 .about .image {
-  background: url("assets/download.jfif") center center no-repeat;
+  background: url("assets/me3.jfif") center center no-repeat;
   filter: blur(0px);
   background-size: cover;
   min-height: 500px;
