@@ -317,7 +317,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("/assets/san2.png") top right;
+  background: url("assets/san2.jpg") top right;
   background-size:cover;
   position: relative;
 }
@@ -606,7 +606,7 @@ section {
 }
 
 .about .image {
-  background: url("/assets/me3.jfif") center center no-repeat;
+  background: url("assets/download.jfif") center center no-repeat;
   filter: blur(0px);
   background-size: cover;
   min-height: 500px;
@@ -1197,7 +1197,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: url("/assets/foot.jpg") top center no-repeat;
+  background: url("assets/foot.jpg") top center no-repeat;
   background-size: cover;
   color: #fff;
   font-size: 14px;
